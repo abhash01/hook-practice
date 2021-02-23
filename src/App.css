@@ -1,12 +1,12 @@
 .App {
-  text-align: center;
+  /* text-align: center;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   background-color: cadetblue;
-  color: #fff;
+  color: #000;
   height: 100vh;
-  flex-direction: column;
+  /* flex-direction: column; */
 }
 .btn {
   border: 1px solid #fff;

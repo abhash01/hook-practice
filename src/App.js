@@ -2,7 +2,8 @@ import React, { useState} from 'react';
 import './App.css';
 //import BasicForm from './components/forms/BasicForm';
 //import UseEffect1 from './components/useEffect/UseEffect1';
-import UseEffect2 from './components/useEffect/UseEffect2';
+//import UseEffect2 from './components/useEffect/UseEffect2';
+import UseEffectApi from './components/useEffect/UseEffectApi';
 //import ShortCirEval from './components/ShortCirEval';
 //import UseObject from './components/UseObject';
 //import RulesHook from './components/RulesHook';
@@ -27,7 +28,8 @@ const App = () => {
       {/* <ShortCirEval/> */}
       {/* <BasicForm/> */}
       {/* <UseEffect1/> */}
-      <UseEffect2 />
+      {/* <UseEffect2 /> */}
+      <UseEffectApi />
     </div>
   )
 }
